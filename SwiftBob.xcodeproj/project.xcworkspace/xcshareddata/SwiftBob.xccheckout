@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E54B3D14-D1AF-4553-B92E-D18292818795</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftBob</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>749109DD5E4D98E1EE66AF92888521B9DC048016</key>
+		<string>github.com:SixFiveSoftware/SwiftBob.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftBob.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>749109DD5E4D98E1EE66AF92888521B9DC048016</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SixFiveSoftware/SwiftBob.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>749109DD5E4D98E1EE66AF92888521B9DC048016</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>749109DD5E4D98E1EE66AF92888521B9DC048016</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftBob</string>
+		</dict>
+	</array>
+</dict>
+</plist>

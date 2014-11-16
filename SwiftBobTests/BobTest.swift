@@ -2,6 +2,10 @@ import XCTest
 
 class BobTests: XCTestCase {
     
+    func testFailure() {
+        XCTFail("test failure")
+    }
+    
     func testStatingSomething() {
         let input = "Tom-ay-to, tom-aaaah-to."
         let expected = "Whatever."
