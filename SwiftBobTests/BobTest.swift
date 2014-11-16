@@ -70,7 +70,7 @@ class BobTests: XCTestCase {
     }
     
     func testShoutingWithSpecialCharacters() {
-        let input = "ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!"
+        let input = "OMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!"
         let expected = "Woah, chill out!"
         let result = Bob.hey(input)
         XCTAssertEqual(expected, result)
