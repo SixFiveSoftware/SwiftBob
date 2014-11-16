@@ -6,6 +6,10 @@ class BobTests: XCTestCase {
         XCTFail("test failure")
     }
     
+    func testFailure2() {
+        XCTFail("ths will also fail")
+    }
+    
     func testStatingSomething() {
         let input = "Tom-ay-to, tom-aaaah-to."
         let expected = "Whatever."
